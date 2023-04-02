@@ -1,6 +1,8 @@
 # 0x9bc2
 Customized network layer protocol C2
 
+blog post: https://b1n.io/posts/customized-network-layer-protocol-c2
+
 `0x9b`is the protocol number I used  
 This repo just a PoC for Customized network layer protocol C2  
 Have a remote command execute feature
